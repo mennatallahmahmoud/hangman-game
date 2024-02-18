@@ -1,0 +1,7 @@
+{
+    "Fruits": ["Apple", "Banana", "Orange", "Strawberry", "Watermelon", "Blueberry", "Pineapple", "Kiwi"],
+    "Countries": ["Egypt", "Palestine", "Syria", "Koria", "Saudi Arabia", "Italy", "China", "Morocco", "New Zealand", "Iraq"],
+    "Colors": ["Black", "White", "Yellow", "Purple", "Babyblue", "Green", "Brown"],
+    "Movies": ["Godfather", "Titanic", "Squid Game", "Oppenheimer", "Forrest Gump", "Inception", "Interstellar", "Parasite"],
+    "Shapes": ["Circle", "Square", "Triangle", "Polygon", "Rectangle", "Cube"]
+}
